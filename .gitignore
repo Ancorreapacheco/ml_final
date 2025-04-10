@@ -1,6 +1,7 @@
 #Big files
 **/datasets/mitbih_data.csv
 **/datasets/mitbih_train.csv
+**/datasets/mitbih_test.csv
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
