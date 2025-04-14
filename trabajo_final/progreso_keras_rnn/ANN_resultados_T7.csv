@@ -1,0 +1,3 @@
+modelo,params,T_dias,T_horas,MAPE,MAE,RMSE,MSE,R2,LjungBox_p
+MLP,"{'hidden_layers': [16], 'activation': 'relu', 'learning_rate': 0.001, 'epochs': 50, 'batch_size': 32}",7,168,129195611545470.23,0.9506850774781728,1.2482953334384266,7.0418259181310425,-4.626408383041274,0.1214173635689766
+MLP,"{'hidden_layers': [32], 'activation': 'relu', 'learning_rate': 0.001, 'epochs': 50, 'batch_size': 32}",7,168,120083676675578.25,0.833115120113293,1.0952846294122838,4.094268822497477,-3.13087241476693,0.15956844471717777
