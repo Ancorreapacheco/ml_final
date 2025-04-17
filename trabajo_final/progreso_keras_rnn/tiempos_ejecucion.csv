@@ -2,3 +2,7 @@ T_dias,modelo,parametros,duracion_segundos
 7,MLP,"{'hidden_layers': [64, 32], 'activation': 'tanh', 'learning_rate': 0.001, 'epochs': 50, 'batch_size': 32, 'kernel_regularizer': <keras.regularizers.L2 object at 0x0000024A90E5DC40>}",4519.04
 7,MLP,"{'hidden_layers': [64, 32], 'activation': 'tanh', 'learning_rate': 0.001, 'epochs': 50, 'batch_size': 32, 'kernel_regularizer': <keras.regularizers.L2 object at 0x0000024A90E5D820>}",4577.68
 7,MLP,"{'hidden_layers': [64, 32], 'activation': 'tanh', 'learning_rate': 0.01, 'epochs': 50, 'batch_size': 32, 'kernel_regularizer': <keras.regularizers.L2 object at 0x0000024A90E5DC40>}",4540.09
+7,MLP,"{'hidden_layers': [32], 'activation': 'tanh', 'learning_rate': 0.01, 'epochs': 50, 'batch_size': 32}",3963.01
+7,MLP,"{'hidden_layers': [64], 'activation': 'tanh', 'learning_rate': 0.01, 'epochs': 50, 'batch_size': 32}",3545.06
+14,MLP,"{'hidden_layers': [32], 'activation': 'tanh', 'learning_rate': 0.01, 'epochs': 50, 'batch_size': 32}",4911.38
+14,MLP,"{'hidden_layers': [64], 'activation': 'tanh', 'learning_rate': 0.01, 'epochs': 50, 'batch_size': 32}",4670.77
