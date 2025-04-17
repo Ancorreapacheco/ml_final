@@ -1,0 +1,2 @@
+modelo,params,T_dias,T_horas,MAPE,MAE,RMSE,MSE,R2,LjungBox_p
+MLP,"{'hidden_layers': [64], 'activation': 'tanh', 'learning_rate': 0.001, 'epochs': 50, 'batch_size': 32, 'kernel_regularizer': <keras.regularizers.L2 object at 0x000001F1C8703370>}",14,336,64398552470066.72,0.47200490977912674,0.6012651241863708,0.38708820337970995,0.597752673685581,0.42945859854728974

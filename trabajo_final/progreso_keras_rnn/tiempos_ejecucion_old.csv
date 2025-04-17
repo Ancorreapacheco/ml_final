@@ -1,0 +1,14 @@
+T_dias,modelo,parametros,duracion_segundos
+7,MLP,"{'hidden_layers': [64], 'activation': 'tanh', 'learning_rate': 0.001, 'epochs': 50, 'batch_size': 32, 'kernel_regularizer': <keras.regularizers.L2 object at 0x000001F1C8703370>}",3689.65
+7,MLP,"{'hidden_layers': [64], 'activation': 'tanh', 'learning_rate': 0.001, 'epochs': 50, 'batch_size': 32, 'kernel_regularizer': <keras.regularizers.L2 object at 0x000001F1C9A3A880>}",3500.07
+7,MLP,"{'hidden_layers': [64], 'activation': 'tanh', 'learning_rate': 0.01, 'epochs': 50, 'batch_size': 32, 'kernel_regularizer': <keras.regularizers.L2 object at 0x000001F1C8703370>}",3196.10
+7,MLP,"{'hidden_layers': [64], 'activation': 'tanh', 'learning_rate': 0.01, 'epochs': 50, 'batch_size': 32, 'kernel_regularizer': <keras.regularizers.L2 object at 0x000001F1C9A3A880>}",3388.33
+7,MLP,"{'hidden_layers': [32], 'activation': 'tanh', 'learning_rate': 0.001, 'epochs': 50, 'batch_size': 32, 'kernel_regularizer': <keras.regularizers.L2 object at 0x000001F1C8703370>}",3543.37
+7,MLP,"{'hidden_layers': [32], 'activation': 'tanh', 'learning_rate': 0.001, 'epochs': 50, 'batch_size': 32, 'kernel_regularizer': <keras.regularizers.L2 object at 0x000001F1C9A3A880>}",3573.92
+7,MLP,"{'hidden_layers': [32], 'activation': 'tanh', 'learning_rate': 0.01, 'epochs': 50, 'batch_size': 32, 'kernel_regularizer': <keras.regularizers.L2 object at 0x000001F1C8703370>}",3921.27
+7,MLP,"{'hidden_layers': [32], 'activation': 'tanh', 'learning_rate': 0.01, 'epochs': 50, 'batch_size': 32, 'kernel_regularizer': <keras.regularizers.L2 object at 0x000001F1C9A3A880>}",4024.40
+7,MLP,"{'hidden_layers': [64, 32], 'activation': 'tanh', 'learning_rate': 0.001, 'epochs': 50, 'batch_size': 32, 'kernel_regularizer': <keras.regularizers.L2 object at 0x000001F1C8703370>}",4675.31
+7,MLP,"{'hidden_layers': [64, 32], 'activation': 'tanh', 'learning_rate': 0.001, 'epochs': 50, 'batch_size': 32, 'kernel_regularizer': <keras.regularizers.L2 object at 0x000001F1C9A3A880>}",4757.01
+7,MLP,"{'hidden_layers': [64, 32], 'activation': 'tanh', 'learning_rate': 0.01, 'epochs': 50, 'batch_size': 32, 'kernel_regularizer': <keras.regularizers.L2 object at 0x000001F1C8703370>}",4442.51
+7,MLP,"{'hidden_layers': [64, 32], 'activation': 'tanh', 'learning_rate': 0.01, 'epochs': 50, 'batch_size': 32, 'kernel_regularizer': <keras.regularizers.L2 object at 0x000001F1C9A3A880>}",4726.80
+14,MLP,"{'hidden_layers': [64], 'activation': 'tanh', 'learning_rate': 0.001, 'epochs': 50, 'batch_size': 32, 'kernel_regularizer': <keras.regularizers.L2 object at 0x000001F1C8703370>}",6112.17
