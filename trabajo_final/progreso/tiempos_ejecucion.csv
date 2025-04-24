@@ -1,0 +1,3 @@
+T_dias,modelo,parametros,duracion_segundos
+7,LSTM,"{'hidden_units': 32, 'activation': 'tanh', 'learning_rate': 0.001, 'epochs': 50, 'batch_size': 32}",252.83
+7,LSTM,"{'hidden_units': 64, 'activation': 'tanh', 'learning_rate': 0.001, 'epochs': 50, 'batch_size': 32}",238.12

@@ -1,0 +1,3 @@
+modelo,params,T_dias,T_horas,MAPE,MAE,RMSE,MSE,R2,LjungBox_p
+LSTM,"{'hidden_units': 32, 'activation': 'tanh', 'learning_rate': 0.001, 'epochs': 50, 'batch_size': 32}",7,168,0.6541295489971537,1.3326250102580606,1.6149331162978187,2.987819206254462,-2.2420381578426545,0.059200577334178925
+LSTM,"{'hidden_units': 64, 'activation': 'tanh', 'learning_rate': 0.001, 'epochs': 50, 'batch_size': 32}",7,168,0.6563659361320716,1.3829163984000312,1.655873945087031,3.103596211149768,-2.420965989072833,0.04702243303138702
